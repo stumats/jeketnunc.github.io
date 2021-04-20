@@ -28,10 +28,10 @@ collections:
     output: true
     sort_by: list_priority
   secondary:
-    output: true
+    output: false
     sort_by: list_priority
   unlisted:
-    output: true
+    output: false
     sort_by: list_priority
 
 # Minima date format
